@@ -1,21 +1,24 @@
 .Paragraph {
     margin: 0;
-    background-color: #100d1b;
+    background-color: #14111f;
     color: white;
     padding: 20px;
     padding-left: 12%;
     padding-right: 12%;
+    padding-top: 10px;
+    padding-bottom: 10px;
     font-family: Arial;
     text-align: left;
 }  
 
-.SubHeader {
+.Subheader {
     margin: 0;
-    background-color: #100d1b;
+    background-color: #14111f;
     color: white;
     padding: 20px;
+    padding-bottom: 0px;
     font-family: Arial;
-    text-align: center;
+    text-align: left;
 } 
 
 .Header {
@@ -29,10 +32,10 @@
 
 .Wrapper {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 20px;
     padding: 10px;
-    background-color: #020918;
+    background-color: #100d1b;
     max-width: 1080px;
 }
 
@@ -47,22 +50,8 @@
     justify-content: center;
 }
 
-.Background {
-    background-color: #020918;
-}
-
 .Content {
     display: flex;
-    justify-content: center;
-}
-
-.Credits {
-    margin: 0;
-    background-color: #100d1b;
-    color: white;
-    padding-bottom: 20px;
-    padding-left: 12%;
-    padding-right: 12%;
-    font-family: Arial;
-    text-align: left;
+    justify-content: left;
+    background-color: #100c1d;
 }
