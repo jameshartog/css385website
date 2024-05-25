@@ -1,7 +1,7 @@
 .Paragraph {
     margin: 0;
-    background-color: #100d1b;
-    color: white;
+    background-color: white;
+    color: #000000;
     padding: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -11,8 +11,8 @@
 
 .Subheader {
     margin: 0;
-    background-color: #100d1b;
-    color: white;
+    background-color: #ffffff;
+    color: #000000;
     padding: 20px;
     padding-bottom: 0px;
     font-family: Arial;
@@ -21,8 +21,8 @@
 
 .Header {
     margin: 0;
-    background-color: #100d1b;
-    color: white;
+    background-color: #ffffff;
+    color: #000000;
     padding: 10px;
     font-family: Arial;
     text-align: left;

@@ -1,19 +1,19 @@
 {
-  "short_name": "PoC Assignment",
-  "name": "PoC Assignment Colors",
+  "short_name": "Midas Game",
+  "name": "Midas Game CSS 385 Project Website",
   "icons": [
     {
-      "src": "pfp.jpg",
+      "src": "Placeholder.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "pfp.jpg",
+      "src": "Placeholder.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "pfp.jpg",
+      "src": "Placeholder.png",
       "type": "image/png",
       "sizes": "512x512"
     }

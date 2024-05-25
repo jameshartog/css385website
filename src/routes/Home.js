@@ -13,14 +13,14 @@ const Home = () => {
 				WebGL
 			</h2>
 			<p className={styles.Paragraph}>
-				Link
+				<a href="https://dillonjevans.github.io/css385-final/">Link to Github</a>
 			</p>
 
 			<h2 className={styles.Header}>
 				Source
 			</h2>
 			<p className={styles.Paragraph}>
-				Link
+				<a href="https://github.com/DillonJEvans/css385-final">Link to Github</a>
 			</p>
 
 			<h2 className={styles.Header}>
@@ -44,19 +44,29 @@ const Home = () => {
 						</iframe>
 					</body>
 					<body>
-						
+						<div className={extra_styles.Center}>
+							<img src={process.env.PUBLIC_URL + '/Placeholder.png'} className={extra_styles.Photo} alt="Placeholder 1" />
+						</div>
 					</body>
 					<body>
-						
+						<div className={extra_styles.Center}>
+							<img src={process.env.PUBLIC_URL + '/Placeholder.png'} className={extra_styles.Photo} alt="Placeholder 2" />
+						</div>
 					</body>
 					<body>
-						
+						<div className={extra_styles.Center}>
+							<img src={process.env.PUBLIC_URL + '/Placeholder.png'} className={extra_styles.Photo} alt="Placeholder 3" />
+						</div>
 					</body>
 					<body>
-						
+						<div className={extra_styles.Center}>
+							<img src={process.env.PUBLIC_URL + '/Placeholder.png'} className={extra_styles.Photo} alt="Placeholder 4" />
+						</div>
 					</body>
 					<body>
-						
+						<div className={extra_styles.Center}>
+							<img src={process.env.PUBLIC_URL + '/Placeholder.png'} className={extra_styles.Photo} alt="Placeholder 5" />
+						</div>
 					</body>
 				</div>
 			</div>

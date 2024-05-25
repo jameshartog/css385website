@@ -1,7 +1,7 @@
 .Paragraph {
     margin: 0;
-    background-color: #14111f;
-    color: white;
+    background-color: #ffffff;
+    color: #000000;
     padding: 20px;
     padding-left: 12%;
     padding-right: 12%;
@@ -13,8 +13,8 @@
 
 .Subheader {
     margin: 0;
-    background-color: #14111f;
-    color: white;
+    background-color: #ffffff;
+    color: #000000;
     padding: 20px;
     padding-bottom: 0px;
     font-family: Arial;
@@ -23,8 +23,8 @@
 
 .Header {
     margin: 0;
-    background-color: #020918;
-    color: white;
+    background-color: #ffffff;
+    color: #000000;
     padding: 10px;
     font-family: Arial;
     text-align: center;
@@ -35,23 +35,26 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
     padding: 10px;
-    background-color: #100d1b;
+    background-color: #ffffff;
+    color: #000000;
     max-width: 1080px;
 }
 
 .Photo {
-    width: 75%;
-    height: 75%;
+    width: 425px;
+    height: 345px;
 }
 
 .Center {
     display: flex;
-    background-color: #100d1b;
+    background-color: #ffffff;
+    color: #000000;
     justify-content: center;
 }
 
 .Content {
     display: flex;
     justify-content: left;
-    background-color: #100c1d;
+    background-color: #ffffff;
+    color: #000000;
 }

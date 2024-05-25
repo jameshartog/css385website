@@ -7,7 +7,8 @@ const Credits = () => {
             <h1 className={style_default.Header}>Credits:</h1>
             <h2 className={style_default.Paragraph}>Reference Name</h2>
             <p className={style_default.Paragraph}>
-                Reference Details
+                Reference Details<br></br>
+                <a href="https://github.com/DillonJEvans/css385-final">Reference Link</a>
             </p>
         </div>
     );

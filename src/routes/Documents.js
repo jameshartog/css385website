@@ -7,10 +7,10 @@ const Documents = () => {
         <div>
             <h1 className={styles.Header}>Documents:</h1>
             <h1 className={styles.Paragraph}>
-                Playtesting reports <br></br>
-                Postmortem Presentation <br></br>
-                Game Presentation <br></br>
-                Team Reflection <br></br>
+                <a href="https://github.com/DillonJEvans/css385-final">Playtesting reports</a><br></br>
+                <a href="https://github.com/DillonJEvans/css385-final">Postmortem Presentation</a><br></br>
+                <a href="https://github.com/DillonJEvans/css385-final">Presentation</a><br></br>
+                <a href="https://github.com/DillonJEvans/css385-final">Team Reflection</a><br></br>
             </h1>
         </div>
     );
