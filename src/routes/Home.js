@@ -73,7 +73,7 @@ const Home = () => {
 							JJ Hartog
 						</h3>
 						<p className={extra_styles.Paragraph}>
-							Tilemaps & Collider Programmer
+							Environment & Gameplay Interactions
 						</p>
 					</body>
 					<body>
@@ -81,7 +81,7 @@ const Home = () => {
 							Dillon Evans
 						</h3>
 						<p className={extra_styles.Paragraph}>
-							AI & Gameplay Systems Programmer
+							Player Controls, Enemy AI, & UI
 						</p>
 					</body>
 					<body>
@@ -89,7 +89,7 @@ const Home = () => {
 							Emma Pates
 						</h3>
 						<p className={extra_styles.Paragraph}>
-							Artist & Animations Programmer
+							Art, Animations, & Base Gameplay
 						</p>
 					</body>
 				</div>
