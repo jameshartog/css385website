@@ -9,7 +9,9 @@ const Home = () => {
 				Midas
 			</h1>
 			<p className={styles.Paragraph}>
-				Description Text
+			Play as Midas, the legendary figure from Greek mythology, in this electrifying adventure where every touch turns to gold. In "Midas" you embody the iconic king cursed with the golden touch, but with a modern twist – harnessing the power of electricity to conquer foes and navigate treacherous landscapes. However, you are decaying and need to collect a series of gears around the map to repair your golden form. Your primary arsenal is powerful electricity which you can conduct and direct through your golden hands. You unleash bolts of crackling electricity, striking down adversaries with pinpoint precision or with wide blasts. To aid in your battle, you can deploy Golden Drones – loyal servants crafted from the purest gold – to defend you in combat. These shimmering constructs are conducive to your electric powers, chaining your electricity attacks to overwhelm enemies with relentless force. You'll encounter death pits, lasers, landmines, as well as ranged and melee enemies. Every encounter tests your skill and mastery over your electrifying abilities.
+			<br></br><br></br>
+			This game is inspired by the Greek myth of King Midas now that, he too, is made of gold. However What makes this game unique is its interpretation of the theme. Instead of adding gold strictly as currency, Midas's ability allows him to conduct electricity, much like how gold is conducive. Another highlight of this game that our team is very proud of is that the vast majority of assets and code are made from scratch. The launch date of this game is May 30th, 2024 using GitHub's pages and WebGL, so any platform capable of accessing the link can run our game. During playtesting, our prototypes and prior game versions received a range of 4 to 4.5 out of 5 stars. Our final version received 4.5 out of 5 stars for its creativity, uniqueness, and replayability.
 			</p>
 
 			<h2 className={styles.Header}>
