@@ -25,7 +25,7 @@ const Home = () => {
 				Source
 			</h2>
 			<p className={styles.Paragraph}>
-				<a href="https://github.com/DillonJEvans/css385-final">Link to Github</a>
+				<a href="https://github.com/DillonJEvans/css385-final">Link to Github (Unity Version: 2023.2.14f1)</a>
 			</p>
 
 			<h1 className={styles.Header}>
