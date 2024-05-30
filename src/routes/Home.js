@@ -6,8 +6,11 @@ const Home = () => {
 	return (
 		<div>
 			<h1 className={styles.Header}>
-				The Midas Game (subject to change)
+				Midas
 			</h1>
+			<p className={styles.Paragraph}>
+				Description Text
+			</p>
 
 			<h2 className={styles.Header}>
 				WebGL
@@ -23,49 +26,38 @@ const Home = () => {
 				<a href="https://github.com/DillonJEvans/css385-final">Link to Github</a>
 			</p>
 
-			<h2 className={styles.Header}>
-				Description
-			</h2>
-			<p className={styles.Paragraph}>
-				Description Text
-			</p>
-
-			<h2 className={styles.Header}>
-				Screenshots Placeholder
-			</h2>
-
-			<h2 className={styles.Header}>
-				Trailer
-			</h2>
+			<h1 className={styles.Header}>
+				Media
+			</h1>
 			<div className={extra_styles.Content}>
 				<div className={extra_styles.Wrapper}>
 					<body>
-						<iframe title="Project Trailer" width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+						<iframe title="Project Trailer" width="553" height="345" src="https://www.youtube.com/embed/rg7dr95S1x8">
 						</iframe>
 					</body>
 					<body>
 						<div className={extra_styles.Center}>
-							<img src={process.env.PUBLIC_URL + '/Placeholder.png'} className={extra_styles.Photo} alt="Placeholder 1" />
+							<img src={process.env.PUBLIC_URL + '/GameplayA.png'} className={extra_styles.Photo} alt="Drone AOE Attack Showcase" />
 						</div>
 					</body>
 					<body>
 						<div className={extra_styles.Center}>
-							<img src={process.env.PUBLIC_URL + '/Placeholder.png'} className={extra_styles.Photo} alt="Placeholder 2" />
+							<img src={process.env.PUBLIC_URL + '/GameplayB.png'} className={extra_styles.Photo} alt="Laser Hazards on Cooldown" />
 						</div>
 					</body>
 					<body>
 						<div className={extra_styles.Center}>
-							<img src={process.env.PUBLIC_URL + '/Placeholder.png'} className={extra_styles.Photo} alt="Placeholder 3" />
+							<img src={process.env.PUBLIC_URL + '/GameplayC.png'} className={extra_styles.Photo} alt="Laser Hazards Active" />
 						</div>
 					</body>
 					<body>
 						<div className={extra_styles.Center}>
-							<img src={process.env.PUBLIC_URL + '/Placeholder.png'} className={extra_styles.Photo} alt="Placeholder 4" />
+							<img src={process.env.PUBLIC_URL + '/GameplayD.png'} className={extra_styles.Photo} alt="Player at the end of their run" />
 						</div>
 					</body>
 					<body>
 						<div className={extra_styles.Center}>
-							<img src={process.env.PUBLIC_URL + '/Placeholder.png'} className={extra_styles.Photo} alt="Placeholder 5" />
+							<img src={process.env.PUBLIC_URL + '/GameplayE.png'} className={extra_styles.Photo} alt="Enemy firing at player" />
 						</div>
 					</body>
 				</div>
@@ -81,7 +73,7 @@ const Home = () => {
 							JJ Hartog
 						</h3>
 						<p className={extra_styles.Paragraph}>
-							Role
+							Tilemaps & Collider Programmer
 						</p>
 					</body>
 					<body>
@@ -89,7 +81,7 @@ const Home = () => {
 							Dillon Evans
 						</h3>
 						<p className={extra_styles.Paragraph}>
-							Role
+							AI & Gameplay Systems Programmer
 						</p>
 					</body>
 					<body>
@@ -97,7 +89,7 @@ const Home = () => {
 							Emma Pates
 						</h3>
 						<p className={extra_styles.Paragraph}>
-							Role
+							Artist & Animations Programmer
 						</p>
 					</body>
 				</div>

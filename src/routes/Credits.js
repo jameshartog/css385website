@@ -5,10 +5,11 @@ const Credits = () => {
     return (
         <div>
             <h1 className={style_default.Header}>Credits:</h1>
-            <h2 className={style_default.Paragraph}>Reference Name</h2>
+            <h2 className={style_default.Paragraph}>NavMeshPlus</h2>
+            <h3 className={style_default.PaddingLess}>Created by h8man</h3>
             <p className={style_default.Paragraph}>
-                Reference Details<br></br>
-                <a href="https://github.com/DillonJEvans/css385-final">Reference Link</a>
+                2D Navmesh package used to generate Navmeshes from scene geometry.<br></br>
+                <a href="https://github.com/h8man/NavMeshPlus/tree/master">NavMeshPlus GitHub page</a>
             </p>
         </div>
     );

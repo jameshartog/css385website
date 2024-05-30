@@ -3,17 +3,17 @@
   "name": "Midas Game CSS 385 Project Website",
   "icons": [
     {
-      "src": "Placeholder.png",
+      "src": "LogoB.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "Placeholder.png",
+      "src": "LogoB.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "Placeholder.png",
+      "src": "LogoB.png",
       "type": "image/png",
       "sizes": "512x512"
     }
